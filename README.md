@@ -21,8 +21,7 @@
   <img align="center" alt="JWsley-MySQL" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="JWsley-TypeScript" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     
-   <img align="right" alt="minhoro-photo" height="150" style= "border-radius:80px;" src="https://art.ngfiles.com/images/753000/753563_ico-non_icon-danganronpa.png?f1545774916">
-     
+   <img align="center" alt="minhoro-photo" height="150" style= "border-radius:80px;" src="https://flyclipart.com/thumb2/scratch-studio-179025.png">
 </div>       
     <center/>
  
