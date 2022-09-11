@@ -8,7 +8,7 @@
   
   
   <a href="app.lofi.co">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark">    
+    <a href="app.lofi.co">    
      <img height="150rem" alt="JWsley's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JWsley?cardType=github&theme=dark" />  </a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWsley&layout=compact&langs_count=7&theme=dark"/>
 </div>
