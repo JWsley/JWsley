@@ -20,6 +20,14 @@
   <img align="center" alt="JWsley-Python" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JWsley-MySQL" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="JWsley-TypeScript" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="JWsley-TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
+  <img align="center" alt="JWsley-TypeScript" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+
+          
+    
+    
+ 
+          
     
    <img align="center" alt="minhoro-photo" height="150" style= "border-radius:80px;" src="https://flyclipart.com/thumb2/scratch-studio-179025.png">
 </div>       
