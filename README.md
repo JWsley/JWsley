@@ -23,7 +23,7 @@
   <img align="center" alt="JWsley-TypeScript" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   
     
-    <a href="https://github.com/JWsley/crudPHP-Completo"> <img align="center" alt="JWsley-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></a> 
+    <a  href="https://github.com/JWsley/crudPHP-Completo"><img align="center" alt="JWsley-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></a> 
  
     
     
