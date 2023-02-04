@@ -14,18 +14,31 @@
 </div>
   <center>
   <div style="display: flex;" align="center"><br>
-  <img align="center" alt="Js" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JWsley-HTML" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JWsley-CSS" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JWsley-Python" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JWsley-MySQL" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="JWsley-Ionic" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
-  <img align="center" alt="JWsley-TypeScript" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  
-    
-    <a  href="https://github.com/JWsley/crudPHP-Completo"><img align="center" alt="JWsley-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></a> 
  
     
+    <img align="center" alt="Js" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+    
+    <img align="center" alt="JWsley-HTML" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+    
+    <img align="center" alt="JWsley-CSS" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+    
+    <img align="center" alt="JWsley-Python" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+    
+    <img align="center" alt="JWsley-MySQL" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  
+    
+    <img align="center" alt="JWsley-Ionic" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
+  
+    
+    <img align="center" alt="JWsley-TypeScript" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  
+    
+    <img align="center" alt="JWsley-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+ 
     
     
     <img align="center" alt="JWsley-Wordpress" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
