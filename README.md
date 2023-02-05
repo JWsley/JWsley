@@ -1,5 +1,4 @@
-##                                 JWsley 💢♾️  <p  align="right"> ----------<br> <img width="100" height="15" src="https://profile-counter.glitch.me/JWsley/count.svg" /><br>----------<br> </p>
-
+##                                 JWsley 💢♾️ 
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
@@ -34,15 +33,16 @@
    
    <img align="center" alt="minhoro-photo" height="150" style= "border-radius:80px;" src="https://flyclipart.com/thumb2/scratch-studio-179025.png">
 </div>       
-    <center/>
+    </center>
  
   
 
-  
+  <center>
+  <p  align="center"> ----------------<br> <img width="100" height="15" src="https://profile-counter.glitch.me/JWsley/count.svg" /><br>----------------<br> </p>
 
   
   ![Snake animation](https://github.com/JWsley/JWsley/blob/output/github-contribution-grid-snake.svg)
-
+ </center>
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
