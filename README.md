@@ -10,10 +10,14 @@
   
   <a href="app.lofi.co">
     <a href="app.lofi.co">    
-     <img height="150rem" width="300rem"  alt="JWsley's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JWsley?cardType=github&theme=dark" />  </a>
+     <img height="150rem" width="300rem"  alt="JWsley's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JWsley?cardType=github&theme=merko" />  </a>
 
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=JWsley&theme=dark)
+![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=JWsley&theme=merko)
+    
+   
 </div>
+  
+ <hr>
   <center>
   <div style="display: flex;" align="center"><br>
    <img align="center" alt="JWsley-HTML" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
