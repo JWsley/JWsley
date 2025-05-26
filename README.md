@@ -46,8 +46,10 @@
   <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/></a>
 </div>
 
----
-
 <p align="center">
   <img alt="Yorhalogo" height="150" style="border-radius:80px;" src="img/yorhaLogo.gif">
 </p>
+
+---
+
+
