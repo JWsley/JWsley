@@ -49,5 +49,5 @@
 ---
 
 <p align="center">
-  <img alt="Yorhalogo" height="150" style="border-radius:80px;" src="img/com-crop-unscreen.gif">
+  <img alt="Yorhalogo" height="150" style="border-radius:80px;" src="img/yorhaLogo.gif">
 </p>
