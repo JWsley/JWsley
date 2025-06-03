@@ -44,8 +44,10 @@
   <a href="https://www.python.org" target="_blank"><img src="img/icons/python-original.svg" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="img/icons/pytorch-icon.svg" width="40" height="40"/></a>
   <a href="https://www.selenium.dev" target="_blank"><img src="img/icons/selenium-logo.svg" width="40" height="40"/></a>
+   <a href="https://obsidian.md/" target="_blank"><img src="img/icons/obsidian.svg" width="40" height="40"/></a>
 </div>
 
+  
 <p align="center">
   <img alt="Yorhalogo" height="150" style="border-radius:80px;" src="img/yorhaLogo.gif">
 </p>
