@@ -1,6 +1,6 @@
 <p align="center">
   <strong>JWsley</strong> <span><<</span>----------------<br>
-  <img width="100" height="15" src="https://profile-counter.glitch.me/JWsley/count.svg" /><br>
+  <img  width="100" height="15" src="https://profile-counter.deno.dev/JWsley/count.svg" alt="Key:: Visitor's Count" /><br>
   ----------------<span>>></span>
 </p>
 
