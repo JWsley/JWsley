@@ -18,12 +18,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWsley&theme=merko&layout=compact&langs_count=10&hide_border=false" />
 </div>
 
-
 ---
 
 <h2 align="center">🧠 Conhecimentos em:</h2>
-
-
 
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr valign="top">
@@ -65,6 +62,7 @@
         <a href="https://pandas.pydata.org/" target="_blank"><img src="img/icons/pandas-original.svg" width="40" height="40"/></a>
         <a href="https://opencv.org/" target="_blank"><img src="img/icons/opencv-icon.svg" width="40" height="40"/></a>
         <a href="https://pytorch.org/" target="_blank"><img src="img/icons/pytorch-icon.svg" width="40" height="40"/></a>
+        <a href="https://n8n.io/?ps_partner_key=YTgzZTRhNTliMmEy&ps_xid=P9XctpGpC1DQUm&gsxid=P9XctpGpC1DQUm&gspk=YTgzZTRhNTliMmEy&gad_campaignid=22682774778" target="_blank"><img src="img/icons/n8n-logo.svg" width="40" height="40"/></a>
       </p>
     </td>
   </tr>
@@ -80,7 +78,7 @@
     </td>
   </tr>
 </table>
-
+  
 <p align="center">
   <img alt="Yorhalogo" height="150" style="border-radius:80px;" src="img/yorhaLogo.gif">
 </p>
