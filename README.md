@@ -27,7 +27,7 @@
     <td width="50%">
       <h3 align="center">Fundamentais</h3>
       <table align="center" border="0" cellpadding="5" cellspacing="5">
-        <tr valign="top">
+        <tr valign="bottom">
           <td align="center" width="60">
             <a href="https://www.w3.org/html/" target="_blank"><img src="img/icons/html5-original-wordmark.svg" width="40" height="40"/></a>
             <br/>
@@ -59,7 +59,7 @@
     <td width="50%">
       <h3 align="center">Back-end e Frameworks</h3>
       <table align="center" border="0" cellpadding="5" cellspacing="5">
-        <tr valign="top">
+        <tr valign="bottom">
           <td align="center" width="60">
             <a href="https://www.python.org" target="_blank"><img src="img/icons/python-original.svg" width="40" height="40"/></a>
             <br/>
@@ -76,7 +76,7 @@
             <strong>Django</strong>
           </td>
           <td align="center" width="60">
-            <a href="https://flask.palletsprojects.com/" target="_blank"><img src="img/icons/palletsprojects_flask-ar21.svg" width="60" height="40"/></a>
+            <a href="https://flask.palletsprojects.com/" target="_blank"><img src="img/icons/palletsprojects_flask-ar21.svg" width="40" height="40"/></a>
             <br/>
             <strong>Flask</strong>
           </td>
@@ -103,7 +103,7 @@
     <td width="50%">
       <h3 align="center">Bancos de Dados</h3>
       <table align="center" border="0" cellpadding="5" cellspacing="5">
-        <tr valign="top">
+        <tr valign="bottom">
           <td align="center" width="60">
             <a href="https://www.mysql.com/" target="_blank"><img src="img/icons/mysql-original-wordmark.svg" width="40" height="40"/></a>
             <br/>
@@ -125,7 +125,7 @@
     <td width="50%">
       <h3 align="center">Data & IA</h3>
       <table align="center" border="0" cellpadding="5" cellspacing="5">
-        <tr valign="top">
+        <tr valign="bottom">
           <td align="center" width="60">
             <a href="https://pandas.pydata.org/" target="_blank"><img src="img/icons/pandas-original.svg" width="40" height="40"/></a>
             <br/>
@@ -154,7 +154,7 @@
     <td colspan="2">
       <h3 align="center">Ferramentas</h3>
       <table align="center" border="0" cellpadding="5" cellspacing="5">
-        <tr valign="top">
+        <tr valign="bottom">
           <td align="center" width="60">
             <a href="https://www.docker.com/" target="_blank"><img src="img/icons/docker-original-wordmark.svg" width="40" height="40"/></a>
             <br/>
