@@ -76,7 +76,7 @@
             <strong>Django</strong>
           </td>
           <td align="center" width="60">
-            <a href="https://flask.palletsprojects.com/" target="_blank"><img src="img/icons/palletsprojects_flask-ar21.svg" width="40" height="40"/></a>
+            <a href="https://flask.palletsprojects.com/" target="_blank"><img src="img/icons/palletsprojects_flask-ar21.png" width="40" height="40"/></a>
             <br/>
             <strong>Flask</strong>
           </td>
