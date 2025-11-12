@@ -25,7 +25,7 @@
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr valign="top">
     <td width="50%">
-      <h3 align="center">Fundamentais</h3>
+      <h3 align="center">Fundamentos/Introdutórios</h3>
       <table align="center" border="0" cellpadding="5" cellspacing="5">
         <tr valign="bottom">
           <td align="center" width="60">
