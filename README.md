@@ -14,16 +14,6 @@
   <img src="https://github.com/JWsley/JWsley/blob/main/img/World-Map.svg" alt="worldMap" style="filter: grayscale(100%) invert(100%); opacity: 0.7;"/>
 </p>
 
-<div align="center">
-  <a href="https://app.lofi.co" target="_blank">
-    <img height="150rem" width="300rem" alt="JWsley's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JWsley?cardType=github&theme=merko" />
-  </a>
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWsley&theme=merko&layout=compact&langs_count=10&hide_border=false" />
-</div>
-
 ---
 
 <h2 align="center">🧠 Conhecimentos em:</h2>
