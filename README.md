@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e4429&height=100&section=header&text=YORHA%20SYSTEM%20OS&fontSize=40&fontAlignY=50&animation=twinkling&fontColor=39d353" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e4429&height=100&section=header&text=DEVELOPER%20SYSTEM%20TERMINAL&fontSize=40&fontAlignY=50&animation=twinkling&fontColor=39d353" width="100%">
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39d353&center=true&vCenter=true&width=435&lines=%5B+ACCESSING+TERMINAL...+%5D;%5B+GREEN+PROTOCOL+ACTIVE+%5D;%5B+USER:+JWsley+AUTHORIZED+%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39d353&center=true&vCenter=true&width=435&lines=%5B+INITIALIZING+ENVIRONMENT...+%5D;%5B+ESTABLISHING+SECURE+CONNECTION+%5D;%5B+USER:+JWsley+AUTHORIZED+%5D" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e4429&height=40&section=header&text=◈%20CORE%20KNOWLEDGE%20◈&fontSize=20&fontAlignY=50&fontColor=39d353" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e4429&height=40&section=header&text=◈%20TECHNICAL%20STACK%20◈&fontSize=20&fontAlignY=50&fontColor=39d353" width="100%">
 </p>
 
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
@@ -190,7 +190,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e4429&height=40&section=header&text=◈%20DATA%20STREAM%20◈&fontSize=20&fontAlignY=50&fontColor=39d353" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e4429&height=40&section=header&text=◈%20CONTRIBUTION%20ANALYTICS%20◈&fontSize=20&fontAlignY=50&fontColor=39d353" width="100%">
 </p>
 
 <div align="center">
@@ -214,5 +214,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e4429&height=100&section=footer&text=GLORY%20TO%20MANKIND&fontSize=30&fontAlignY=70&fontColor=39d353&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e4429&height=100&section=footer&text=SYSTEM%20STATUS:%20ONLINE&fontSize=30&fontAlignY=70&fontColor=39d353&animation=fadeIn" width="100%">
 </p>
