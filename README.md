@@ -62,11 +62,6 @@
             <strong style="color: #FFFFFF;">Python</strong>
           </td>
           <td align="center" width="60">
-            <a href="https://www.djangoproject.com/" target="_blank"><img src="img/icons/django.svg" width="40" height="40"/></a>
-            <br/>
-            <strong style="color: #FFFFFF;">Django</strong>
-          </td>
-          <td align="center" width="60">
             <a href="https://flask.palletsprojects.com/" target="_blank"><img src="img/icons/palletsprojects_flask-ar21.png" width="40" height="40"/></a>
             <br/>
             <strong style="color: #FFFFFF;">Flask</strong>
@@ -123,9 +118,9 @@
             <strong style="color: #FFFFFF;">OpenCV</strong>
           </td>
           <td align="center" width="60">
-            <a href="https://pytorch.org/" target="_blank"><img src="img/icons/pytorch-icon.svg" width="40" height="40"/></a>
+            <a href="https://n8n.io/" target="_blank"><img src="img/icons/n8n-logo.svg" width="40" height="40"/></a>
             <br/>
-            <strong style="color: #FFFFFF;">PyTorch</strong>
+            <strong style="color: #FFFFFF;">n8n</strong>
           </td>
         </tr>
       </table>
