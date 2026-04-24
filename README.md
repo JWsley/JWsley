@@ -72,6 +72,11 @@
             <strong style="color: #FFFFFF;">PHP</strong>
           </td>
           <td align="center" width="60">
+            <a href="https://codeigniter.com" target="_blank"><img src="img/icons/codeigniter.svg" width="40" height="40"/></a>
+            <br/>
+            <strong style="color: #FFFFFF;">CodeIgniter</strong>
+          </td>
+          <td align="center" width="60">
             <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="img/icons/gnu_bash-icon.svg" width="40" height="40"/></a>
             <br/>
             <strong style="color: #FFFFFF;">Bash</strong>
