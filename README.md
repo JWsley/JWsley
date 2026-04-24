@@ -76,6 +76,16 @@
             <br/>
             <strong style="color: #FFFFFF;">Bash</strong>
           </td>
+          <td align="center" width="60">
+            <a href="https://nextjs.org/" target="_blank"><img src="img/icons/nextjs.svg" width="40" height="40" style="filter: invert(1);"/></a>
+            <br/>
+            <strong style="color: #FFFFFF;">Next.js</strong>
+          </td>
+          <td align="center" width="60">
+            <a href="https://ionicframework.com/" target="_blank"><img src="img/icons/ionic.svg" width="40" height="40"/></a>
+            <br/>
+            <strong style="color: #FFFFFF;">Ionic</strong>
+          </td>
         </tr>
       </table>
     </td>
