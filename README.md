@@ -137,6 +137,11 @@
             <br/>
             <strong style="color: #FFFFFF;">n8n</strong>
           </td>
+          <td align="center" width="60">
+            <a href="https://lmstudio.ai/" target="_blank"><img src="img/icons/lm-studio.png" width="40" height="40"/></a>
+            <br/>
+            <strong style="color: #FFFFFF;">LM Studio</strong>
+          </td>
         </tr>
       </table>
     </td>
@@ -162,9 +167,14 @@
             <strong style="color: #FFFFFF;">Obsidian</strong>
           </td>
           <td align="center" width="60">
-            <a href="https://lmstudio.ai/" target="_blank"><img src="img/icons/lm-studio.png" width="40" height="40"/></a>
+            <a href="https://www.notion.so/" target="_blank"><img src="img/icons/notion.svg" width="40" height="40"/></a>
             <br/>
-            <strong style="color: #FFFFFF;">LM Studio</strong>
+            <strong style="color: #FFFFFF;">Notion</strong>
+          </td>
+          <td align="center" width="60">
+            <a href="https://www.warp.dev/" target="_blank"><img src="img/icons/warp.svg" width="40" height="40"/></a>
+            <br/>
+            <strong style="color: #FFFFFF;">Warp</strong>
           </td>
         </tr>
       </table>
