@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrinish/mrinish/main/assets/line-neon.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e4429&height=100&section=header&text=YORHA%20SYSTEM%20OS&fontSize=40&fontAlignY=50&animation=twinkling&fontColor=39d353" width="100%">
 </p>
 
 <div align="center">
@@ -14,9 +14,9 @@
   <img src="https://github.com/JWsley/JWsley/blob/main/img/World-Map.svg" alt="worldMap" style="filter: brightness(0) saturate(100%) invert(35%) sepia(93%) saturate(347%) hue-rotate(97deg) brightness(95%) contrast(92%); opacity: 0.8;"/>
 </p>
 
----
-
-<h2 align="center" style="color: #39d353;">◈ CONHECIMENTOS EM:</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e4429&height=40&section=header&text=◈%20CORE%20KNOWLEDGE%20◈&fontSize=20&fontAlignY=50&fontColor=39d353" width="100%">
+</p>
 
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr valign="top">
@@ -189,8 +189,11 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e4429&height=40&section=header&text=◈%20DATA%20STREAM%20◈&fontSize=20&fontAlignY=50&fontColor=39d353" width="100%">
+</p>
+
 <div align="center">
-  <h2 style="color: #39d353;">◈ DATA STREAM ANALYSIS</h2>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JWsley&bg_color=0d1117&color=39d353&line=26a641&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
@@ -207,10 +210,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TERMINAL-ENCRYPTED-006d32?style=for-the-badge&logo=target&logoColor=39d353" />
-  <img src="https://img.shields.io/badge/YORHA-PROTOCOL_GREEN-0e4429?style=for-the-badge&logo=matrix&logoColor=26a641" />
+  <img src="https://raw.githubusercontent.com/mrinish/mrinish/main/assets/line-neon.gif" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrinish/mrinish/main/assets/line-neon.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e4429&height=100&section=footer&text=GLORY%20TO%20MANKIND&fontSize=30&fontAlignY=70&fontColor=39d353&animation=fadeIn" width="100%">
 </p>
