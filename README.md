@@ -18,10 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWsley&theme=merko&layout=compact&langs_count=10&hide_border=false" />
 </div>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JWsley&theme=merko&area=true&hide_border=false" alt="JWsley's GitHub Activity Graph" />
-</p>
-
 ---
 
 <h2 align="center">🧠 Conhecimentos em:</h2>
@@ -185,6 +181,10 @@
   </tr>
 </table>
   
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JWsley&theme=merko&area=true&hide_border=false" alt="JWsley's GitHub Activity Graph" />
+</p>
+
 <p align="center">
   <img alt="Yorhalogo" height="150" style="border-radius:80px;" src="img/yorhaLogo.gif">
 </p>
