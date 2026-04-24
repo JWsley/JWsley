@@ -182,6 +182,10 @@
 </table>
   
 <p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JWsley&theme=merko&area=true&hide_border=false" alt="JWsley's GitHub Activity Graph" />
+</p>
+
+<p align="center">
   <img alt="Yorhalogo" height="150" style="border-radius:80px;" src="img/yorhaLogo.gif">
 </p>
 
