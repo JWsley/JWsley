@@ -147,7 +147,7 @@
     </td>
   </tr>
   <tr valign="top">
-    <td colspan="2">
+    <td width="50%">
       <h3 align="center">Ferramentas</h3>
       <table align="center" border="0" cellpadding="5" cellspacing="5">
         <tr valign="bottom">
@@ -170,6 +170,41 @@
             <a href="https://obsidian.md/" target="_blank"><img src="img/icons/obsidian.svg" width="40" height="40"/></a>
             <br/>
             <strong>Obsidian</strong>
+          </td>
+          <td align="center" width="60">
+            <a href="https://lmstudio.ai/" target="_blank"><img src="img/icons/lm-studio.png" width="40" height="40"/></a>
+            <br/>
+            <strong>LM Studio</strong>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%">
+      <h3 align="center">Sistemas Operacionais</h3>
+      <table align="center" border="0" cellpadding="5" cellspacing="5">
+        <tr valign="bottom">
+          <td align="center" width="60">
+            <a href="https://www.microsoft.com/windows" target="_blank"><img src="img/icons/windows.svg" width="40" height="40"/></a>
+            <br/>
+            <strong>Windows</strong>
+          </td>
+          <td align="center" width="60">
+            <a href="https://www.debian.org/" target="_blank"><img src="img/icons/debian.svg" width="40" height="40"/></a>
+            <br/>
+            <strong>Debian</strong>
+          </td>
+          <td align="center" width="60">
+            <a href="https://ubuntu.com/" target="_blank"><img src="img/icons/ubuntu.svg" width="40" height="40"/></a>
+            <br/>
+            <strong>Ubuntu</strong>
+          </td>
+          <td align="center" width="100" style="border: 1px solid #1793D1; border-radius: 10px; background: rgba(23, 147, 209, 0.1);">
+            <a href="https://archlinux.org/" target="_blank">
+              <img src="img/icons/arch-linux.svg" width="50" height="50"/>
+              <img src="img/icons/hyprland.svg" width="25" height="25" style="margin-left: -15px; margin-top: 20px;"/>
+            </a>
+            <br/>
+            <strong>Arch/Hyprland</strong>
           </td>
         </tr>
       </table>
