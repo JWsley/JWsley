@@ -191,4 +191,26 @@
 
 ---
 
+<h2 align="center">🎨 Galeria de Estilos (Escolha o seu favorito!)</h2>
 
+<div align="center">
+  <h3>1. Gráfico de Atividade - Tema Tokyo Night</h3>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JWsley&theme=tokyonight&area=true" />
+  
+  <br/>
+
+  <h3>2. Sequência de Atividade (Streak Stats)</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JWsley&theme=merko" />
+
+  <br/>
+
+  <h3>3. Seus Troféus de Desenvolvedor</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=JWsley&theme=merko&column=4" />
+
+  <br/>
+
+  <h3>4. Gráfico 3D (Visão Geral)</h3>
+  <img width="100%" src="https://github-profile-3d-contrib.vercel.app/api?username=JWsley" />
+</div>
+
+<p align="center"><i>Dica: Quando escolher o que mais gostou, me avise que eu limpo o resto e deixo só o seu favorito!</i></p>
