@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39d353&center=true&vCenter=true&width=435&lines=%5B+INITIALIZING+ENVIRONMENT...+%5D;%5B+ESTABLISHING+SECURE+CONNECTION+%5D;%5B+USER:+JWsley+AUTHORIZED+%5D" alt="Typing SVG" />
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img width="100" height="15" src="https://profile-counter.deno.dev/JWsley/count.svg" alt="Visitor Count" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github.com/JWsley/JWsley/blob/main/img/World-Map.svg" alt="worldMap" style="filter: brightness(0) saturate(100%) invert(35%) sepia(93%) saturate(347%) hue-rotate(97deg) brightness(95%) contrast(92%); opacity: 0.8;"/>
