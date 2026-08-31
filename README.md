@@ -213,9 +213,9 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0e4429&height=40&section=header&text=◈%20CONTRIBUTION%20ANALYTICS%20◈&fontSize=20&fontAlignY=50&fontColor=39d353" width="100%">
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JWsley&bg_color=0d1117&color=39d353&line=26a641&point=FFFFFF&area=true&hide_border=true" />
-</div>
+</div> -->
 
 <br/>
 
