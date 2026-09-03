@@ -226,7 +226,7 @@
 <br/>
 
 <p align="center">
-  <img alt="Yorhalogo" height="150" style="border-radius:80px; filter: brightness(0) saturate(100%) invert(48%) sepia(82%) saturate(415%) hue-rotate(86deg) brightness(96%) contrast(92%);" src="img/yorhaLogo.gif">
+  <img alt="Yorhalogo" height="150" style="border-radius:80px; filter: brightness(0) saturate(100%) invert(48%) sepia(82%) saturate(415%) hue-rotate(86deg) brightness(96%) contrast(92%);" src="img/yorha-logo.svg">
 </p>
 
 <p align="center">
