@@ -1,0 +1,179 @@
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+  width="100%" height="110px" viewBox="0 0 900 110"
+  preserveAspectRatio="xMidYMid meet">
+
+  <defs>
+    <!-- Gradiente do feixe inferior -->
+    <linearGradient id="headerGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39d353" stop-opacity="0" />
+      <stop offset="25%" stop-color="#39d353" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#79ff88" stop-opacity="1" />
+      <stop offset="75%" stop-color="#39d353" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#39d353" stop-opacity="0" />
+    </linearGradient>
+
+    <style>
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-weight: 700;
+  src: url(data:font/truetype;base64,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) format('truetype');
+}
+
+      .hud-title {
+        font-family: 'Fira Code', monospace;
+        font-size: 32px;
+        font-weight: 700;
+        letter-spacing: 3px;
+        text-anchor: middle;
+        dominant-baseline: central;
+      }
+
+      .hud-sub {
+        font-family: 'Fira Code', monospace;
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 2px;
+        fill: #26a641;
+      }
+
+      /* Base verde com glow neon */
+      .base-text {
+        fill: #39d353;
+        filter: drop-shadow(0 0 10px rgba(57, 211, 83, 0.9));
+        animation: jitterMain 4s infinite;
+        transform-origin: 450px 52px;
+      }
+
+      @keyframes jitterMain {
+        0%, 65%, 78%, 90%, 100% {
+          transform: translate(0, 0);
+          filter: drop-shadow(0 0 10px rgba(57, 211, 83, 0.9));
+        }
+        67% {
+          transform: translate(-1.5px, 1px);
+          filter: drop-shadow(0 0 20px rgba(121, 255, 136, 1));
+        }
+        70% {
+          transform: translate(2px, -1px);
+          filter: drop-shadow(0 0 15px rgba(16, 185, 129, 0.9));
+        }
+        88% {
+          transform: translate(1px, -1px);
+        }
+      }
+
+      /* Camada Glitch Lima */
+      .glitch-lime {
+        fill: #79ff88;
+        filter: drop-shadow(0 0 14px #79ff88);
+        transform-origin: 450px 52px;
+        animation: glitchHeader1 4s infinite;
+      }
+
+      @keyframes glitchHeader1 {
+        0%, 65%, 75%, 88%, 100% {
+          opacity: 0;
+          transform: translate(0, 0);
+        }
+        67% {
+          opacity: 0.95;
+          transform: translate(-9px, -2px) skewX(-7deg);
+        }
+        69% {
+          opacity: 0.9;
+          transform: translate(7px, 2px) skewX(5deg);
+        }
+        71% {
+          opacity: 0.85;
+          transform: translate(-8px, 1px);
+        }
+        73% {
+          opacity: 0;
+          transform: translate(0, 0);
+        }
+        89% {
+          opacity: 0.95;
+          transform: translate(-7px, -1px) skewX(6deg);
+        }
+        91% {
+          opacity: 0;
+          transform: translate(0, 0);
+        }
+      }
+
+      /* Camada Glitch Matrix */
+      .glitch-matrix {
+        fill: #10b981;
+        filter: drop-shadow(0 0 12px #047857);
+        transform-origin: 450px 52px;
+        animation: glitchHeader2 4s infinite;
+      }
+
+      @keyframes glitchHeader2 {
+        0%, 65%, 75%, 88%, 100% {
+          opacity: 0;
+          transform: translate(0, 0);
+        }
+        68% {
+          opacity: 0.9;
+          transform: translate(8px, 2px) skewX(6deg);
+        }
+        70% {
+          opacity: 0.95;
+          transform: translate(-7px, -1px) skewX(-5deg);
+        }
+        72% {
+          opacity: 0.85;
+          transform: translate(9px, -2px);
+        }
+        74% {
+          opacity: 0;
+          transform: translate(0, 0);
+        }
+        90% {
+          opacity: 0.9;
+          transform: translate(8px, 1px) skewX(-6deg);
+        }
+        92% {
+          opacity: 0;
+          transform: translate(0, 0);
+        }
+      }
+
+      /* Indicador pulsante do HUD */
+      .pulse-dot {
+        animation: dotBlink 1.5s infinite;
+      }
+      @keyframes dotBlink {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 1; filter: drop-shadow(0 0 6px #39d353); }
+      }
+    </style>
+  </defs>
+
+  <!-- Moldura Cyber HUD Superior com cantoneiras -->
+  <path d="M 20,25 L 20,10 L 60,10" fill="none" stroke="#26a641" stroke-width="2" />
+  <path d="M 880,25 L 880,10 L 840,10" fill="none" stroke="#26a641" stroke-width="2" />
+  
+  <path d="M 20,85 L 20,100 L 60,100" fill="none" stroke="#26a641" stroke-width="2" />
+  <path d="M 880,85 L 880,100 L 840,100" fill="none" stroke="#26a641" stroke-width="2" />
+
+  <!-- Metadados de telemetria nos cantos -->
+  <text x="70" y="22" class="hud-sub">SYS_ID: #JWS-2026 // NODE_ACTIVE</text>
+  <circle cx="820" cy="18" r="4" fill="#39d353" class="pulse-dot" />
+  <text x="700" y="22" class="hud-sub">STATUS: ONLINE</text>
+
+  <!-- Titulo Central com Glitch -->
+  <g>
+    <text x="450" y="55" class="hud-title glitch-matrix">DEVELOPER SYSTEM TERMINAL</text>
+    <text x="450" y="55" class="hud-title glitch-lime">DEVELOPER SYSTEM TERMINAL</text>
+    <text x="450" y="55" class="hud-title base-text">DEVELOPER SYSTEM TERMINAL</text>
+  </g>
+
+  <!-- Linha de energia inferior com feixe gradiente -->
+  <line x1="100" y1="88" x2="800" y2="88" stroke="url(#headerGlow)" stroke-width="2.5" />
+  
+  <!-- Marcadores cibernéticos centrais -->
+  <polygon points="445,84 455,84 450,92" fill="#39d353" />
+</svg>
