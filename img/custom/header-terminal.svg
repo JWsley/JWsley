@@ -37,7 +37,7 @@
         fill: #dc2626;
       }
 
-      /* Base verde com glow neon */
+      /* Base vermelha neon */
       .base-text {
         fill: #ff2a4b;
         filter: drop-shadow(0 0 10px rgba(255, 42, 75, 0.9));
@@ -63,8 +63,8 @@
         }
       }
 
-      /* Camada Glitch Lima */
-      .glitch-lime {
+      /* Camada Glitch Coral */
+      .glitch-coral {
         fill: #ff7b72;
         filter: drop-shadow(0 0 14px #ff7b72);
         transform-origin: 450px 52px;
@@ -102,8 +102,8 @@
         }
       }
 
-      /* Camada Glitch Matrix */
-      .glitch-matrix {
+      /* Camada Glitch Carmesim */
+      .glitch-crimson {
         fill: #dc2626;
         filter: drop-shadow(0 0 12px #99001f);
         transform-origin: 450px 52px;
@@ -166,8 +166,8 @@
 
   <!-- Titulo Central com Glitch -->
   <g>
-    <text x="450" y="55" class="hud-title glitch-matrix">DEVELOPER SYSTEM TERMINAL</text>
-    <text x="450" y="55" class="hud-title glitch-lime">DEVELOPER SYSTEM TERMINAL</text>
+    <text x="450" y="55" class="hud-title glitch-crimson">DEVELOPER SYSTEM TERMINAL</text>
+    <text x="450" y="55" class="hud-title glitch-coral">DEVELOPER SYSTEM TERMINAL</text>
     <text x="450" y="55" class="hud-title base-text">DEVELOPER SYSTEM TERMINAL</text>
   </g>
 
