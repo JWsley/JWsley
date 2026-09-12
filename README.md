@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e4429&height=100&section=header&text=DEVELOPER%20SYSTEM%20TERMINAL&fontSize=40&fontAlignY=50&animation=twinkling&fontColor=39d353" width="100%">
+  <img src="img/custom/header-terminal.svg" width="100%" alt="Developer System Terminal" />
 </p>
 
 <div align="center">
-  <img src="img/custom/texts-terminal.svg" alt="Typing SVG" />
+  <img src="img/custom/texts-terminal.svg" alt="Terminal Stream" />
 </div>
 
-<!-- <p align="center">
-  <img width="100" height="15" src="https://profile-counter.deno.dev/JWsley/count.svg" alt="Visitor Count" />
-</p> -->
-
 <p align="center">
-  <img src="https://github.com/JWsley/JWsley/blob/main/img/World-Map.svg" alt="worldMap" style="filter: brightness(0) saturate(100%) invert(35%) sepia(93%) saturate(347%) hue-rotate(97deg) brightness(95%) contrast(92%); opacity: 0.8;"/>
+  <img src="img/World-Map.svg" width="100%" alt="World Map Telemetry" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e4429&height=40&section=header&text=◈%20TECHNICAL%20STACK%20◈&fontSize=20&fontAlignY=50&fontColor=39d353" width="100%">
+  <img src="img/custom/cyber-divider.svg" width="100%" alt="Divider" />
+</p>
+
+<p align="center">
+  <img src="img/custom/section-tech-stack.svg" width="100%" alt="Technical Stack" />
 </p>
 
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
@@ -207,32 +207,30 @@
   </tr>
 </table>
 
-<br/>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e4429&height=40&section=header&text=◈%20CONTRIBUTION%20ANALYTICS%20◈&fontSize=20&fontAlignY=50&fontColor=39d353" width="100%">
+  <img src="img/custom/cyber-divider.svg" width="100%" alt="Divider" />
 </p>
 
-<!-- <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JWsley&bg_color=0d1117&color=39d353&line=26a641&point=FFFFFF&area=true&hide_border=true" />
-</div> -->
+<p align="center">
+  <img src="img/custom/section-analytics.svg" width="100%" alt="Contribution Analytics" />
+</p>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JWsley&theme=github-dark-green&background=0d1117&ring=39d353&fire=26a641&currStreakLabel=39d353&currStreakNum=FFFFFF&sideLabels=39d353&sideNums=FFFFFF&dates=39d353" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JWsley&theme=github-dark-green&background=0d1117&ring=39d353&fire=26a641&currStreakLabel=39d353&currStreakNum=FFFFFF&sideLabels=39d353&sideNums=FFFFFF&dates=39d353" alt="Streak Stats" />
 </div>
 
 <br/>
 
 <p align="center">
-  <img alt="Yorhalogo" height="150" style="border-radius:80px; filter: brightness(0) saturate(100%) invert(48%) sepia(82%) saturate(415%) hue-rotate(86deg) brightness(96%) contrast(92%);" src="img/custom/yorha-logo.svg">
+  <img src="img/custom/yorha-logo.svg" alt="YoRHa Security Sigil" height="155" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrinish/mrinish/main/assets/line-neon.gif" width="100%">
+  <img src="img/custom/cyber-divider.svg" width="100%" alt="Divider" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e4429&height=100&section=footer&text=SYSTEM%20STATUS:%20ONLINE&fontSize=30&fontAlignY=70&fontColor=39d353&animation=fadeIn" width="100%">
+  <img src="img/custom/footer-terminal.svg" width="100%" alt="System Status Online" />
 </p>
