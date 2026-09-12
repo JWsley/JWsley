@@ -5,11 +5,11 @@
   <defs>
     <!-- Gradiente do feixe inferior -->
     <linearGradient id="headerGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#39d353" stop-opacity="0" />
-      <stop offset="25%" stop-color="#39d353" stop-opacity="0.6" />
-      <stop offset="50%" stop-color="#79ff88" stop-opacity="1" />
-      <stop offset="75%" stop-color="#39d353" stop-opacity="0.6" />
-      <stop offset="100%" stop-color="#39d353" stop-opacity="0" />
+      <stop offset="0%" stop-color="#ff2a4b" stop-opacity="0" />
+      <stop offset="25%" stop-color="#ff2a4b" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#ff7b72" stop-opacity="1" />
+      <stop offset="75%" stop-color="#ff2a4b" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#ff2a4b" stop-opacity="0" />
     </linearGradient>
 
     <style>
@@ -34,13 +34,13 @@
         font-size: 11px;
         font-weight: 700;
         letter-spacing: 2px;
-        fill: #26a641;
+        fill: #dc2626;
       }
 
-      /* Base verde com glow neon */
+      /* Base vermelha neon */
       .base-text {
-        fill: #39d353;
-        filter: drop-shadow(0 0 10px rgba(57, 211, 83, 0.9));
+        fill: #ff2a4b;
+        filter: drop-shadow(0 0 10px rgba(255, 42, 75, 0.9));
         animation: jitterMain 4s infinite;
         transform-origin: 450px 52px;
       }
@@ -48,25 +48,25 @@
       @keyframes jitterMain {
         0%, 65%, 78%, 90%, 100% {
           transform: translate(0, 0);
-          filter: drop-shadow(0 0 10px rgba(57, 211, 83, 0.9));
+          filter: drop-shadow(0 0 10px rgba(255, 42, 75, 0.9));
         }
         67% {
           transform: translate(-1.5px, 1px);
-          filter: drop-shadow(0 0 20px rgba(121, 255, 136, 1));
+          filter: drop-shadow(0 0 20px rgba(255, 123, 114, 1));
         }
         70% {
           transform: translate(2px, -1px);
-          filter: drop-shadow(0 0 15px rgba(16, 185, 129, 0.9));
+          filter: drop-shadow(0 0 15px rgba(220, 38, 38, 0.9));
         }
         88% {
           transform: translate(1px, -1px);
         }
       }
 
-      /* Camada Glitch Lima */
-      .glitch-lime {
-        fill: #79ff88;
-        filter: drop-shadow(0 0 14px #79ff88);
+      /* Camada Glitch Coral */
+      .glitch-coral {
+        fill: #ff7b72;
+        filter: drop-shadow(0 0 14px #ff7b72);
         transform-origin: 450px 52px;
         animation: glitchHeader1 4s infinite;
       }
@@ -102,10 +102,10 @@
         }
       }
 
-      /* Camada Glitch Matrix */
-      .glitch-matrix {
-        fill: #10b981;
-        filter: drop-shadow(0 0 12px #047857);
+      /* Camada Glitch Carmesim */
+      .glitch-crimson {
+        fill: #dc2626;
+        filter: drop-shadow(0 0 12px #99001f);
         transform-origin: 450px 52px;
         animation: glitchHeader2 4s infinite;
       }
@@ -147,27 +147,27 @@
       }
       @keyframes dotBlink {
         0%, 100% { opacity: 0.3; }
-        50% { opacity: 1; filter: drop-shadow(0 0 6px #39d353); }
+        50% { opacity: 1; filter: drop-shadow(0 0 6px #ff2a4b); }
       }
     </style>
   </defs>
 
   <!-- Moldura Cyber HUD Superior com cantoneiras -->
-  <path d="M 20,25 L 20,10 L 60,10" fill="none" stroke="#26a641" stroke-width="2" />
-  <path d="M 880,25 L 880,10 L 840,10" fill="none" stroke="#26a641" stroke-width="2" />
+  <path d="M 20,25 L 20,10 L 60,10" fill="none" stroke="#dc2626" stroke-width="2" />
+  <path d="M 880,25 L 880,10 L 840,10" fill="none" stroke="#dc2626" stroke-width="2" />
   
-  <path d="M 20,85 L 20,100 L 60,100" fill="none" stroke="#26a641" stroke-width="2" />
-  <path d="M 880,85 L 880,100 L 840,100" fill="none" stroke="#26a641" stroke-width="2" />
+  <path d="M 20,85 L 20,100 L 60,100" fill="none" stroke="#dc2626" stroke-width="2" />
+  <path d="M 880,85 L 880,100 L 840,100" fill="none" stroke="#dc2626" stroke-width="2" />
 
   <!-- Metadados de telemetria nos cantos -->
   <text x="70" y="22" class="hud-sub">SYS_ID: #JWS-2026 // NODE_ACTIVE</text>
-  <circle cx="820" cy="18" r="4" fill="#39d353" class="pulse-dot" />
+  <circle cx="820" cy="18" r="4" fill="#ff2a4b" class="pulse-dot" />
   <text x="700" y="22" class="hud-sub">STATUS: ONLINE</text>
 
   <!-- Titulo Central com Glitch -->
   <g>
-    <text x="450" y="55" class="hud-title glitch-matrix">DEVELOPER SYSTEM TERMINAL</text>
-    <text x="450" y="55" class="hud-title glitch-lime">DEVELOPER SYSTEM TERMINAL</text>
+    <text x="450" y="55" class="hud-title glitch-crimson">DEVELOPER SYSTEM TERMINAL</text>
+    <text x="450" y="55" class="hud-title glitch-coral">DEVELOPER SYSTEM TERMINAL</text>
     <text x="450" y="55" class="hud-title base-text">DEVELOPER SYSTEM TERMINAL</text>
   </g>
 
@@ -175,5 +175,5 @@
   <line x1="100" y1="88" x2="800" y2="88" stroke="url(#headerGlow)" stroke-width="2.5" />
   
   <!-- Marcadores cibernéticos centrais -->
-  <polygon points="445,84 455,84 450,92" fill="#39d353" />
+  <polygon points="445,84 455,84 450,92" fill="#ff2a4b" />
 </svg>

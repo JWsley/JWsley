@@ -4,11 +4,11 @@
 
   <defs>
     <linearGradient id="footerGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#39d353" stop-opacity="0" />
-      <stop offset="25%" stop-color="#39d353" stop-opacity="0.6" />
-      <stop offset="50%" stop-color="#79ff88" stop-opacity="1" />
-      <stop offset="75%" stop-color="#39d353" stop-opacity="0.6" />
-      <stop offset="100%" stop-color="#39d353" stop-opacity="0" />
+      <stop offset="0%" stop-color="#ff2a4b" stop-opacity="0" />
+      <stop offset="25%" stop-color="#ff2a4b" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#ff7b72" stop-opacity="1" />
+      <stop offset="75%" stop-color="#ff2a4b" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#ff2a4b" stop-opacity="0" />
     </linearGradient>
 
     <style>
@@ -35,12 +35,12 @@
         letter-spacing: 2px;
         text-anchor: middle;
         dominant-baseline: central;
-        fill: #26a641;
+        fill: #dc2626;
       }
 
       .base-footer {
-        fill: #39d353;
-        filter: drop-shadow(0 0 10px rgba(57, 211, 83, 0.9));
+        fill: #ff2a4b;
+        filter: drop-shadow(0 0 10px rgba(255, 42, 75, 0.9));
         animation: footerJitter 4.5s infinite;
         transform-origin: 450px 38px;
       }
@@ -48,11 +48,11 @@
       @keyframes footerJitter {
         0%, 65%, 78%, 90%, 100% {
           transform: translate(0, 0);
-          filter: drop-shadow(0 0 10px rgba(57, 211, 83, 0.9));
+          filter: drop-shadow(0 0 10px rgba(255, 42, 75, 0.9));
         }
         67% {
           transform: translate(-1.5px, 1px);
-          filter: drop-shadow(0 0 20px rgba(121, 255, 136, 1));
+          filter: drop-shadow(0 0 20px rgba(255, 123, 114, 1));
         }
         70% {
           transform: translate(2px, -1px);
@@ -63,8 +63,8 @@
       }
 
       .glitch-footer-1 {
-        fill: #79ff88;
-        filter: drop-shadow(0 0 14px #79ff88);
+        fill: #ff7b72;
+        filter: drop-shadow(0 0 14px #ff7b72);
         transform-origin: 450px 38px;
         animation: glitchFoot1 4.5s infinite;
       }
@@ -97,8 +97,8 @@
       }
 
       .glitch-footer-2 {
-        fill: #10b981;
-        filter: drop-shadow(0 0 12px #047857);
+        fill: #dc2626;
+        filter: drop-shadow(0 0 12px #99001f);
         transform-origin: 450px 38px;
         animation: glitchFoot2 4.5s infinite;
       }
@@ -136,8 +136,8 @@
   <line x1="80" y1="8" x2="820" y2="8" stroke="url(#footerGlow)" stroke-width="2.5" />
   
   <!-- Marcadores laterais -->
-  <polygon points="75,4 85,8 75,12" fill="#39d353" />
-  <polygon points="825,4 815,8 825,12" fill="#39d353" />
+  <polygon points="75,4 85,8 75,12" fill="#ff2a4b" />
+  <polygon points="825,4 815,8 825,12" fill="#ff2a4b" />
 
   <!-- Titulo com Glitch -->
   <g>

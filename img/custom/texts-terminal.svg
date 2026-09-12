@@ -29,10 +29,10 @@
         dominant-baseline: central;
       }
 
-      /* Base verde terminal com brilho neon */
+      /* Base vermelha neon */
       .base-layer {
-        fill: #39d353;
-        filter: drop-shadow(0 0 8px rgba(57, 211, 83, 0.85));
+        fill: #ff2a4b;
+        filter: drop-shadow(0 0 8px rgba(255, 42, 75, 0.85));
         animation: jitterBase 3.5s infinite;
         transform-origin: 300px 40px;
       }
@@ -40,29 +40,29 @@
       @keyframes jitterBase {
         0%, 58%, 72%, 84%, 100% {
           transform: translate(0, 0);
-          filter: drop-shadow(0 0 8px rgba(57, 211, 83, 0.85));
+          filter: drop-shadow(0 0 8px rgba(255, 42, 75, 0.85));
         }
         60% {
           transform: translate(-1.5px, 1px);
-          filter: drop-shadow(0 0 16px rgba(121, 255, 136, 0.95));
+          filter: drop-shadow(0 0 16px rgba(255, 123, 114, 0.95));
         }
         64% {
           transform: translate(2px, -1px);
-          filter: drop-shadow(0 0 12px rgba(16, 185, 129, 0.9));
+          filter: drop-shadow(0 0 12px rgba(220, 38, 38, 0.9));
         }
         86% {
           transform: translate(1.5px, -1px);
-          filter: drop-shadow(0 0 18px rgba(121, 255, 136, 1));
+          filter: drop-shadow(0 0 18px rgba(255, 123, 114, 1));
         }
         88% {
           transform: translate(-2px, 1px);
         }
       }
 
-      /* Camada Glitch 1: Verde Lima Hiper-Brilhante */
-      .glitch-lime {
-        fill: #79ff88;
-        filter: drop-shadow(0 0 12px #79ff88);
+      /* Camada Glitch 1: Coral Neon Hiper-Brilhante */
+      .glitch-coral {
+        fill: #ff7b72;
+        filter: drop-shadow(0 0 12px #ff7b72);
         transform-origin: 300px 40px;
         animation: glitchBurst1 3.5s infinite;
       }
@@ -106,10 +106,10 @@
         }
       }
 
-      /* Camada Glitch 2: Verde Matrix / Ciano */
-      .glitch-matrix {
-        fill: #10b981;
-        filter: drop-shadow(0 0 10px #047857);
+      /* Camada Glitch 2: Carmesim Sangue / Rubi */
+      .glitch-crimson {
+        fill: #dc2626;
+        filter: drop-shadow(0 0 10px #99001f);
         transform-origin: 300px 40px;
         animation: glitchBurst2 3.5s infinite;
       }
@@ -186,22 +186,22 @@
 
     <!-- Frase 1 -->
     <g class="cycle-phrase-1">
-      <text x="300" y="40" class="terminal-text glitch-matrix">[ INITIALIZING ENVIRONMENT... ]</text>
-      <text x="300" y="40" class="terminal-text glitch-lime">[ INITIALIZING ENVIRONMENT... ]</text>
+      <text x="300" y="40" class="terminal-text glitch-crimson">[ INITIALIZING ENVIRONMENT... ]</text>
+      <text x="300" y="40" class="terminal-text glitch-coral">[ INITIALIZING ENVIRONMENT... ]</text>
       <text x="300" y="40" class="terminal-text base-layer">[ INITIALIZING ENVIRONMENT... ]</text>
     </g>
 
     <!-- Frase 2 -->
     <g class="cycle-phrase-2">
-      <text x="300" y="40" class="terminal-text glitch-matrix">[ ESTABLISHING SECURE CONNECTION ]</text>
-      <text x="300" y="40" class="terminal-text glitch-lime">[ ESTABLISHING SECURE CONNECTION ]</text>
+      <text x="300" y="40" class="terminal-text glitch-crimson">[ ESTABLISHING SECURE CONNECTION ]</text>
+      <text x="300" y="40" class="terminal-text glitch-coral">[ ESTABLISHING SECURE CONNECTION ]</text>
       <text x="300" y="40" class="terminal-text base-layer">[ ESTABLISHING SECURE CONNECTION ]</text>
     </g>
 
     <!-- Frase 3 -->
     <g class="cycle-phrase-3">
-      <text x="300" y="40" class="terminal-text glitch-matrix">[ USER: JWsley AUTHORIZED ]</text>
-      <text x="300" y="40" class="terminal-text glitch-lime">[ USER: JWsley AUTHORIZED ]</text>
+      <text x="300" y="40" class="terminal-text glitch-crimson">[ USER: JWsley AUTHORIZED ]</text>
+      <text x="300" y="40" class="terminal-text glitch-coral">[ USER: JWsley AUTHORIZED ]</text>
       <text x="300" y="40" class="terminal-text base-layer">[ USER: JWsley AUTHORIZED ]</text>
     </g>
 
