@@ -31,8 +31,8 @@
 
       /* Base verde terminal com brilho neon */
       .base-layer {
-        fill: #39d353;
-        filter: drop-shadow(0 0 8px rgba(57, 211, 83, 0.85));
+        fill: #ff2a4b;
+        filter: drop-shadow(0 0 8px rgba(255, 42, 75, 0.85));
         animation: jitterBase 3.5s infinite;
         transform-origin: 300px 40px;
       }
@@ -40,19 +40,19 @@
       @keyframes jitterBase {
         0%, 58%, 72%, 84%, 100% {
           transform: translate(0, 0);
-          filter: drop-shadow(0 0 8px rgba(57, 211, 83, 0.85));
+          filter: drop-shadow(0 0 8px rgba(255, 42, 75, 0.85));
         }
         60% {
           transform: translate(-1.5px, 1px);
-          filter: drop-shadow(0 0 16px rgba(121, 255, 136, 0.95));
+          filter: drop-shadow(0 0 16px rgba(255, 123, 114, 0.95));
         }
         64% {
           transform: translate(2px, -1px);
-          filter: drop-shadow(0 0 12px rgba(16, 185, 129, 0.9));
+          filter: drop-shadow(0 0 12px rgba(220, 38, 38, 0.9));
         }
         86% {
           transform: translate(1.5px, -1px);
-          filter: drop-shadow(0 0 18px rgba(121, 255, 136, 1));
+          filter: drop-shadow(0 0 18px rgba(255, 123, 114, 1));
         }
         88% {
           transform: translate(-2px, 1px);
@@ -61,8 +61,8 @@
 
       /* Camada Glitch 1: Verde Lima Hiper-Brilhante */
       .glitch-lime {
-        fill: #79ff88;
-        filter: drop-shadow(0 0 12px #79ff88);
+        fill: #ff7b72;
+        filter: drop-shadow(0 0 12px #ff7b72);
         transform-origin: 300px 40px;
         animation: glitchBurst1 3.5s infinite;
       }
@@ -108,8 +108,8 @@
 
       /* Camada Glitch 2: Verde Matrix / Ciano */
       .glitch-matrix {
-        fill: #10b981;
-        filter: drop-shadow(0 0 10px #047857);
+        fill: #dc2626;
+        filter: drop-shadow(0 0 10px #99001f);
         transform-origin: 300px 40px;
         animation: glitchBurst2 3.5s infinite;
       }

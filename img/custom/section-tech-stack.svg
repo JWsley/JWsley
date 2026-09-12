@@ -4,11 +4,11 @@
 
   <defs>
     <linearGradient id="techBeam" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#39d353" stop-opacity="0" />
-      <stop offset="20%" stop-color="#1f6f3b" stop-opacity="0.8" />
-      <stop offset="50%" stop-color="#39d353" stop-opacity="1" />
-      <stop offset="80%" stop-color="#1f6f3b" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#39d353" stop-opacity="0" />
+      <stop offset="0%" stop-color="#ff2a4b" stop-opacity="0" />
+      <stop offset="20%" stop-color="#99001f" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#ff2a4b" stop-opacity="1" />
+      <stop offset="80%" stop-color="#99001f" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#ff2a4b" stop-opacity="0" />
     </linearGradient>
 
     <style>
@@ -29,8 +29,8 @@
       }
 
       .sec-base {
-        fill: #39d353;
-        filter: drop-shadow(0 0 8px rgba(57, 211, 83, 0.85));
+        fill: #ff2a4b;
+        filter: drop-shadow(0 0 8px rgba(255, 42, 75, 0.85));
         animation: secJitter 3.8s infinite;
         transform-origin: 350px 25px;
       }
@@ -38,11 +38,11 @@
       @keyframes secJitter {
         0%, 65%, 78%, 90%, 100% {
           transform: translate(0, 0);
-          filter: drop-shadow(0 0 8px rgba(57, 211, 83, 0.85));
+          filter: drop-shadow(0 0 8px rgba(255, 42, 75, 0.85));
         }
         67% {
           transform: translate(-1.5px, 1px);
-          filter: drop-shadow(0 0 16px rgba(121, 255, 136, 0.95));
+          filter: drop-shadow(0 0 16px rgba(255, 123, 114, 0.95));
         }
         70% {
           transform: translate(2px, -1px);
@@ -53,8 +53,8 @@
       }
 
       .sec-glitch-1 {
-        fill: #79ff88;
-        filter: drop-shadow(0 0 10px #79ff88);
+        fill: #ff7b72;
+        filter: drop-shadow(0 0 10px #ff7b72);
         transform-origin: 350px 25px;
         animation: secGlitch1 3.8s infinite;
       }
@@ -87,8 +87,8 @@
       }
 
       .sec-glitch-2 {
-        fill: #10b981;
-        filter: drop-shadow(0 0 8px #047857);
+        fill: #dc2626;
+        filter: drop-shadow(0 0 8px #99001f);
         transform-origin: 350px 25px;
         animation: secGlitch2 3.8s infinite;
       }
@@ -123,8 +123,8 @@
   </defs>
 
   <!-- Marcadores laterais HUD -->
-  <path d="M 40,15 L 20,25 L 40,35" fill="none" stroke="#26a641" stroke-width="2" />
-  <path d="M 660,15 L 680,25 L 660,35" fill="none" stroke="#26a641" stroke-width="2" />
+  <path d="M 40,15 L 20,25 L 40,35" fill="none" stroke="#dc2626" stroke-width="2" />
+  <path d="M 660,15 L 680,25 L 660,35" fill="none" stroke="#dc2626" stroke-width="2" />
 
   <!-- Linha de base brilhante com gradiente -->
   <line x1="50" y1="46" x2="650" y2="46" stroke="url(#techBeam)" stroke-width="1.5" />

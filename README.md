@@ -21,7 +21,7 @@
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr valign="top">
     <td width="50%">
-      <h3 align="center" style="color: #26a641;">◈ Fundamentos/Introdutórios</h3>
+      <h3 align="center" style="color: #ff2a4b;">◈ Fundamentos/Introdutórios</h3>
       <table align="center" border="0" cellpadding="5" cellspacing="5">
         <tr valign="bottom">
           <td align="center" width="60">
@@ -53,7 +53,7 @@
       </table>
     </td>
     <td width="50%">
-      <h3 align="center" style="color: #26a641;">◈ Back-end e Frameworks</h3>
+      <h3 align="center" style="color: #ff2a4b;">◈ Back-end e Frameworks</h3>
       <table align="center" border="0" cellpadding="5" cellspacing="5">
         <tr valign="bottom">
           <td align="center" width="60">
@@ -97,7 +97,7 @@
   </tr>
   <tr valign="top">
     <td width="50%">
-      <h3 align="center" style="color: #26a641;">◈ Bancos de Dados</h3>
+      <h3 align="center" style="color: #ff2a4b;">◈ Bancos de Dados</h3>
       <table align="center" border="0" cellpadding="5" cellspacing="5">
         <tr valign="bottom">
           <td align="center" width="60">
@@ -119,7 +119,7 @@
       </table>
     </td>
     <td width="50%">
-      <h3 align="center" style="color: #26a641;">◈ Data & IA</h3>
+      <h3 align="center" style="color: #ff2a4b;">◈ Data & IA</h3>
       <table align="center" border="0" cellpadding="5" cellspacing="5">
         <tr valign="bottom">
           <td align="center" width="60">
@@ -148,7 +148,7 @@
   </tr>
   <tr valign="top">
     <td width="50%">
-      <h3 align="center" style="color: #26a641;">◈ Ferramentas</h3>
+      <h3 align="center" style="color: #ff2a4b;">◈ Ferramentas</h3>
       <table align="center" border="0" cellpadding="5" cellspacing="5">
         <tr valign="bottom">
           <td align="center" width="60">
@@ -180,7 +180,7 @@
       </table>
     </td>
     <td width="50%">
-      <h3 align="center" style="color: #26a641;">◈ Sistemas Operacionais</h3>
+      <h3 align="center" style="color: #ff2a4b;">◈ Sistemas Operacionais</h3>
       <table align="center" border="0" cellpadding="5" cellspacing="5">
         <tr valign="bottom">
           <td align="center" width="60">
@@ -193,7 +193,7 @@
             <br/>
             <strong style="color: #FFFFFF;">Debian</strong>
           </td>
-          <td align="center" width="100" style="border: 1px solid #26a641; border-radius: 10px; background: rgba(38, 166, 65, 0.1);">
+          <td align="center" width="100" style="border: 1px solid #ff2a4b; border-radius: 10px; background: rgba(255, 42, 75, 0.15);">
             <a href="https://archlinux.org/" target="_blank">
               <img src="img/icons/arch-linux.svg" width="50" height="50"/>
               <img src="img/icons/hyprland.svg" width="25" height="25" style="margin-left: -15px; margin-top: 20px; filter: invert(1);"/>
@@ -218,7 +218,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JWsley&theme=github-dark-green&background=0d1117&ring=39d353&fire=26a641&currStreakLabel=39d353&currStreakNum=FFFFFF&sideLabels=39d353&sideNums=FFFFFF&dates=39d353" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JWsley&theme=dark&background=0d1117&ring=ff2a4b&fire=ff003c&currStreakLabel=ff2a4b&currStreakNum=FFFFFF&sideLabels=ff2a4b&sideNums=FFFFFF&dates=ff7b72" alt="Streak Stats" />
 </div>
 
 <br/>

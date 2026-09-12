@@ -4,11 +4,11 @@
 
   <defs>
     <linearGradient id="divLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#39d353" stop-opacity="0" />
-      <stop offset="15%" stop-color="#26a641" stop-opacity="0.5" />
-      <stop offset="50%" stop-color="#79ff88" stop-opacity="1" />
-      <stop offset="85%" stop-color="#26a641" stop-opacity="0.5" />
-      <stop offset="100%" stop-color="#39d353" stop-opacity="0" />
+      <stop offset="0%" stop-color="#ff2a4b" stop-opacity="0" />
+      <stop offset="15%" stop-color="#dc2626" stop-opacity="0.5" />
+      <stop offset="50%" stop-color="#ff7b72" stop-opacity="1" />
+      <stop offset="85%" stop-color="#dc2626" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#ff2a4b" stop-opacity="0" />
     </linearGradient>
 
     <style>
@@ -19,16 +19,16 @@
       @keyframes pulseCore {
         0% {
           transform: scale(0.85);
-          filter: drop-shadow(0 0 4px #39d353);
+          filter: drop-shadow(0 0 4px #ff2a4b);
         }
         100% {
           transform: scale(1.2);
-          filter: drop-shadow(0 0 14px #79ff88) drop-shadow(0 0 20px #39d353);
+          filter: drop-shadow(0 0 14px #ff7b72) drop-shadow(0 0 20px #ff2a4b);
         }
       }
 
       .line-glow {
-        filter: drop-shadow(0 0 6px rgba(57, 211, 83, 0.75));
+        filter: drop-shadow(0 0 6px rgba(255, 42, 75, 0.75));
       }
     </style>
   </defs>
@@ -39,12 +39,12 @@
   <!-- Detalhes de Circuito Central -->
   <g class="pulse-core">
     <!-- Losango central neon -->
-    <polygon points="400,6 406,12 400,18 394,12" fill="#79ff88" />
+    <polygon points="400,6 406,12 400,18 394,12" fill="#ff7b72" />
   </g>
 
   <!-- Marcadores satélites -->
-  <circle cx="340" cy="12" r="2" fill="#39d353" />
-  <circle cx="460" cy="12" r="2" fill="#39d353" />
-  <line x1="340" y1="9" x2="340" y2="15" stroke="#79ff88" stroke-width="1.5" />
-  <line x1="460" y1="9" x2="460" y2="15" stroke="#79ff88" stroke-width="1.5" />
+  <circle cx="340" cy="12" r="2" fill="#ff2a4b" />
+  <circle cx="460" cy="12" r="2" fill="#ff2a4b" />
+  <line x1="340" y1="9" x2="340" y2="15" stroke="#ff7b72" stroke-width="1.5" />
+  <line x1="460" y1="9" x2="460" y2="15" stroke="#ff7b72" stroke-width="1.5" />
 </svg>
