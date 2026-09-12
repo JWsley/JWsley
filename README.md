@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39d353&center=true&vCenter=true&width=435&lines=%5B+INITIALIZING+ENVIRONMENT...+%5D;%5B+ESTABLISHING+SECURE+CONNECTION+%5D;%5B+USER:+JWsley+AUTHORIZED+%5D" alt="Typing SVG" />
+  <img src="img/custom/texts-terminal.svg" alt="Typing SVG" />
 </div>
 
 <!-- <p align="center">
@@ -226,7 +226,7 @@
 <br/>
 
 <p align="center">
-  <img alt="Yorhalogo" height="150" style="border-radius:80px; filter: brightness(0) saturate(100%) invert(48%) sepia(82%) saturate(415%) hue-rotate(86deg) brightness(96%) contrast(92%);" src="img/yorha-logo.svg">
+  <img alt="Yorhalogo" height="150" style="border-radius:80px; filter: brightness(0) saturate(100%) invert(48%) sepia(82%) saturate(415%) hue-rotate(86deg) brightness(96%) contrast(92%);" src="img/custom/yorha-logo.svg">
 </p>
 
 <p align="center">
